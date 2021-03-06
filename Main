@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Kuba799500/fajnradio_shortcuts.git
+git branch -M main
+git push -u origin main
