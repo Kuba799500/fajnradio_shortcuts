@@ -42,12 +42,12 @@
     "shortcutID":"1df65f8b70d14cdda616fb2258314c3d"}},
 
 "Fajn rádio":
-  {"current":"1.0.1",
+  {"current":"1.01",
   "1.0":
     {"date":"20.3.2021",
     "description":"První vydání.",
     "shortcutID":"9aab7e087cb745989e848049edf489d8"},
-  "1.0.1":
+  "1.01":
     {"date":"20.3.2021",
     "description":"Optimalizace Counteru.",
     "shortcutID":"08de07a2ef27479f94481bb47a026297"}},
