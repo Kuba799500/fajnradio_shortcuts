@@ -1,1 +1,76 @@
-{"Fajn automatic":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn nonexplicit":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn rádio edit":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn playlist":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn rádio offline":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn Nejpřehrávanější":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn rádio":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn now playing":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn Add Song":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}},"Fajn synchro":{"current":"1.0","1.0":{"description":"První vydání.","shortcutID":""}}}
+{
+"Fajn automatic":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"85c506888c824b838450eba7acbd67b8"}},
+
+"Fajn nonexplicit":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"d81f00e5d5bb4d1793b9b96625c31a5a"}},
+
+"Fajn rádio edit":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"c3ea48936b014a948280885e00f9df7e"}},
+
+"Fajn playlist":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"ed6dacc9706e4ee0a46b63894b6cb200"}},
+
+"Fajn rádio offline":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"d233dce3252d4438967632ffa80f118d"}},
+
+"Fajn Nejpřehrávanější":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"1df65f8b70d14cdda616fb2258314c3d"}},
+
+"Fajn rádio":
+  {"current":"1.0.1",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"9aab7e087cb745989e848049edf489d8"},
+  "1.0.1":
+    {"date":"20.3.2021",
+    "description":"Optimalizace Counteru.",
+    "shortcutID":"08de07a2ef27479f94481bb47a026297"}},
+
+"Fajn now playing":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"90e07d77141d4d7c977893d83e871dd5"}},
+
+"Fajn Add Song":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":
+    "První vydání.",
+    "shortcutID":"0aac1050eb8944bf93defd1f197d712e"}},
+
+"Fajn synchro":
+  {"current":"1.0",
+  "1.0":
+    {"date":"20.3.2021",
+    "description":"První vydání.",
+    "shortcutID":"fa31377ea09744b1a019d68130a96f55"}}
+}
