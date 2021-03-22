@@ -14,11 +14,15 @@
 "shortcutID":"d81f00e5d5bb4d1793b9b96625c31a5a"}},
 
 "Fajn rádio edit":
-{"current":"1.0",
+{"current":"1.01",
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
-"shortcutID":"c3ea48936b014a948280885e00f9df7e"}},
+"shortcutID":"c3ea48936b014a948280885e00f9df7e"},
+"1.01":
+{"date":"22.3.2021",
+"description":"Přizpůsobení zkratky pro fungování bez “Fajn rádio export”",
+"shortcutID":"786af161088c43e0a47651b569cb1138"}},
 
 "Fajn playlist":
 {"current":"1.0",
@@ -67,11 +71,15 @@
 "shortcutID":"90e07d77141d4d7c977893d83e871dd5"}},
 
 "Fajn Add Song":
-{"current":"1.0",
+{"current":"1.01",
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
-"shortcutID":"0aac1050eb8944bf93defd1f197d712e"}},
+"shortcutID":"0aac1050eb8944bf93defd1f197d712e"},
+"1.01":
+{"date":"22.3.2021",
+"shortcutID":"bffbd283903346e19fb7161a592cf303",
+"description":"Přizpůsobení zkratky pro fungování bez “Fajn rádio export”"}},
 
 "Fajn updater":
 {"current":"1.0",
