@@ -1,17 +1,25 @@
 {
 "Fajn automatic":
-{"current":"1.0",
+{"current":"1.01",
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
-"shortcutID":"85c506888c824b838450eba7acbd67b8"}},
+"shortcutID":"85c506888c824b838450eba7acbd67b8"},
+"1.01":
+{"date":"2.4.2021",
+"description":"Podpora oznamování skladeb importovaných do zkratky “Fajn rádio”.",
+"shortcutID":"8d5dceca08a349019847708223b19285"}},
 
 "Fajn nonexplicit":
-{"current":"1.0",
+{"current":"1.01",
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
-"shortcutID":"d81f00e5d5bb4d1793b9b96625c31a5a"}},
+"shortcutID":"d81f00e5d5bb4d1793b9b96625c31a5a"},
+"1.01":
+{"date":"2.4.2021",
+"description":"Upraveno vybírání explicitních skladeb.",
+"shortcutID":"57f4986ddd564f61b48314088b460fcd"}},
 
 "Fajn rádio edit":
 {"current":"1.01",
@@ -32,11 +40,19 @@
 "shortcutID":"ed6dacc9706e4ee0a46b63894b6cb200"}},
 
 "Fajn rádio offline":
-{"current":"1.0",
+{"1.001":
+{"date":"2.4.2021",
+"description":"Odstraněn chybný obrázek při přidávání skladeb do hudební knihovny.",
+"shortcutID":"0bcd81851c4b4efbad942cdb4a898fe4"},
+"current":"1.002",
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
-"shortcutID":"d233dce3252d4438967632ffa80f118d"}},
+"shortcutID":"d233dce3252d4438967632ffa80f118d"},
+"1.002":
+{"date":"2.4.2021",
+"description":"Podpora zvolení pouze neexplicitních písní ve vstupu typu “Songs”.",
+"shortcutID":"fc40a29cb31c4e6badaced89987b4873"}},
 
 "Fajn Nejpřehrávanější":
 {"current":"1.0",
@@ -46,29 +62,54 @@
 "shortcutID":"1df65f8b70d14cdda616fb2258314c3d"}},
 
 "Fajn synchro":
-{"current":"1.0",
-"1.0":
-{"date":"20.3.2021",
-"description":"První vydání.",
-"shortcutID":"fa31377ea09744b1a019d68130a96f55"}},
-
-"Fajn rádio":
 {"current":"1.01",
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
-"shortcutID":"9aab7e087cb745989e848049edf489d8"},
+"shortcutID":"fa31377ea09744b1a019d68130a96f55"},
+"1.01":
+{"date":"2.4.2021",
+"description":"Podpora oznamování skladeb importovaných do zkratky “Fajn rádio”.",
+"shortcutID":"73fdd6f3199d4d5aa04e647450d35c24"}},
+
+"Fajn rádio":
+{"current":"1.014",
+"1.012":
+{"date":"2.4.2021",
+"description":"Podpora zapnutí oznamování skladeb importovaných do zkratky “Fajn rádio”.",
+"shortcutID":"26b364f2263640c28e026cec30729ebe"},
+"1.014":
+{"date":"4.4.2021",
+"description":"Úprava oznamování skladeb importovaných do zkratky “Fajn rádio”.",
+"shortcutID":"8dc6b165d9f1497b8f250a68fb7feb3d"},
 "1.01":
 {"date":"20.3.2021",
 "description":"Optimalizace Counteru.",
-"shortcutID":"08de07a2ef27479f94481bb47a026297"}},
-
-"Fajn now playing":
-{"current":"1.0",
+"shortcutID":"08de07a2ef27479f94481bb47a026297"},
+"1.013":
+{"date":"2.4.2021",
+"description":"Oprava chyby ve vstupu zkratky “Fajn rádio offline”,
+ verze 1.002",
+"shortcutID":"989af0a0eb6b4f4d847b8709a7f5f465"},
+"1.011":
+{"date":"1.4.2021",
+"shortcutID":"acb33c60cc1a476a97633869c8b098fd",
+"description":"Úprava oznamování skladeb importovaných do zkratky “Fajn rádio”."},
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
-"shortcutID":"90e07d77141d4d7c977893d83e871dd5"}},
+"shortcutID":"9aab7e087cb745989e848049edf489d8"}},
+
+"Fajn now playing":
+{"current":"1.01",
+"1.0":
+{"date":"20.3.2021",
+"description":"První vydání.",
+"shortcutID":"90e07d77141d4d7c977893d83e871dd5"},
+"1.01":
+{"date":"2.4.2021",
+"description":"Podpora oznamování skladeb importovaných do zkratky “Fajn rádio”.",
+"shortcutID":"c1def8126ae24a84818e047ae4e81295"}},
 
 "Fajn Add Song":
 {"current":"1.01",
@@ -82,9 +123,13 @@
 "description":"Přizpůsobení zkratky pro fungování bez “Fajn rádio export”"}},
 
 "Fajn updater":
-{"current":"1.0",
+{"current":"1.001",
 "1.0":
 {"date":"21.3.2021",
 "description":"První vydání.",
-"shortcutID":"218991a68fdc4776bfbb3bfa1b08d2d2"}}
+"shortcutID":"218991a68fdc4776bfbb3bfa1b08d2d2"},
+"1.001":
+{"date":"2.4.2021",
+"description":"Úprava oznámení aktualizovaných zkratek.",
+"shortcutID":"36ce023e479d46a9bb632d231853bc64"}}
 }
