@@ -123,13 +123,17 @@
 "description":"Přizpůsobení zkratky pro fungování bez “Fajn rádio export”"}},
 
 "Fajn updater":
-{"current":"1.001",
+{"1.001":
+{"date":"2.4.2021",
+"description":"Úprava oznámení aktualizovaných zkratek.",
+"shortcutID":"36ce023e479d46a9bb632d231853bc64"},
+"current":"1.01",
+"1.01":
+{"date":"4.4.2021",
+"description":"Oprava chyby nenačtení slovníku z webu.",
+"shortcutID":"588b062e3dde46c1ac54bb19fb994d68"},
 "1.0":
 {"date":"21.3.2021",
 "description":"První vydání.",
-"shortcutID":"218991a68fdc4776bfbb3bfa1b08d2d2"},
-"1.001":
-{"date":"2.4.2021",
-"description":"Úprava oznámení aktualizovaných zkratek.",
-"shortcutID":"36ce023e479d46a9bb632d231853bc64"}}
+"shortcutID":"218991a68fdc4776bfbb3bfa1b08d2d2"}}
 }
