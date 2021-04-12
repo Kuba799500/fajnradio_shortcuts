@@ -62,15 +62,19 @@
 "shortcutID":"1df65f8b70d14cdda616fb2258314c3d"}},
 
 "Fajn synchro":
-{"current":"1.01",
+{"current":"1.1",
+"1.01":
+{"date":"2.4.2021",
+"description":"Podpora oznamování skladeb importovaných do zkratky “Fajn rádio”.",
+"shortcutID":"73fdd6f3199d4d5aa04e647450d35c24"},
 "1.0":
 {"date":"20.3.2021",
 "description":"První vydání.",
 "shortcutID":"fa31377ea09744b1a019d68130a96f55"},
-"1.01":
-{"date":"2.4.2021",
-"description":"Podpora oznamování skladeb importovaných do zkratky “Fajn rádio”.",
-"shortcutID":"73fdd6f3199d4d5aa04e647450d35c24"}},
+"1.1":
+{"date":"4.4.2021",
+"description":"Změna typu vstupu na slovník\nÚprava pro “Fajn Play&Sync”",
+"shortcutID":"03f8827183374554ab3ef3884c7e4dd3"}},
 
 "Fajn rádio":
 {"current":"1.014",
