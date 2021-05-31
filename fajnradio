@@ -1,6 +1,6 @@
 {
 	"Fajn automatic": {
-		"current": "1.1",
+		"current": "1.11",
 		"1.01": {
 			"date": "2.4.2021",
 			"shortcutID": "8d5dceca08a349019847708223b19285",
@@ -10,6 +10,11 @@
 			"date": "20.3.2021",
 			"shortcutID": "85c506888c824b838450eba7acbd67b8",
 			"description": "První vydání."
+		},
+		"1.11": {
+			"date": "31.5.2021",
+			"shortcutID": "ab4131694e1249e28bcd5c7c1aa1b420",
+			"description": "Podpora “Fajn synchro” verze 1.2."
 		},
 		"1.1": {
 			"date": "8.5.2021",
@@ -139,20 +144,30 @@
 		}
 	},
 	"Fajn now playing": {
-		"current": "1.01",
+		"current": "1.02",
+		"1.01": {
+			"date": "2.4.2021",
+			"shortcutID": "c1def8126ae24a84818e047ae4e81295",
+			"description": "Podpora oznamování skladeb importovaných do zkratky “Fajn rádio”."
+		},
 		"1.0": {
 			"date": "20.3.2021",
 			"shortcutID": "90e07d77141d4d7c977893d83e871dd5",
 			"description": "První vydání."
 		},
-		"1.01": {
-			"date": "2.4.2021",
-			"shortcutID": "c1def8126ae24a84818e047ae4e81295",
-			"description": "Podpora oznamování skladeb importovaných do zkratky “Fajn rádio”."
+		"1.02": {
+			"date": "31.5.2021",
+			"shortcutID": "24ebc784fdaa44f4ba3bf60fc2086e35",
+			"description": "Ukončení zkratky při prázdném vstupu ze zkratky “Fajn automatic”."
 		}
 	},
 	"Fajn synchro": {
-		"current": "1.1",
+		"1.2": {
+			"date": "31.5.2021",
+			"description": "Nyní využívá zkratku “Fajn automatic”\nPodpora vstupu z webové stránky.",
+			"shortcutID": "518fd1cb3f374cafb77da336570fae34"
+		},
+		"current": "1.2",
 		"1.01": {
 			"date": "2.4.2021",
 			"shortcutID": "73fdd6f3199d4d5aa04e647450d35c24",
@@ -186,20 +201,20 @@
 			"shortcutID": "8dc6b165d9f1497b8f250a68fb7feb3d",
 			"description": "Úprava oznamování skladeb importovaných do zkratky “Fajn rádio”."
 		},
-		"1.011": {
-			"date": "1.4.2021",
-			"description": "Úprava oznamování skladeb importovaných do zkratky “Fajn rádio”.",
-			"shortcutID": "acb33c60cc1a476a97633869c8b098fd"
+		"1.01": {
+			"date": "20.3.2021",
+			"shortcutID": "08de07a2ef27479f94481bb47a026297",
+			"description": "Optimalizace Counteru."
 		},
 		"1.013": {
 			"date": "2.4.2021",
 			"shortcutID": "989af0a0eb6b4f4d847b8709a7f5f465",
 			"description": "Oprava chyby ve vstupu zkratky “Fajn rádio offline”, verze 1.002"
 		},
-		"1.01": {
-			"date": "20.3.2021",
-			"shortcutID": "08de07a2ef27479f94481bb47a026297",
-			"description": "Optimalizace Counteru."
+		"1.011": {
+			"date": "1.4.2021",
+			"description": "Úprava oznamování skladeb importovaných do zkratky “Fajn rádio”.",
+			"shortcutID": "acb33c60cc1a476a97633869c8b098fd"
 		},
 		"1.0": {
 			"date": "20.3.2021",
